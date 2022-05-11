@@ -24,7 +24,7 @@ export default function Footer() {
             © {year} Correia JPV
           </Typography>
           <Stack direction="row" spacing={3}>
-            <Link color="text.secondary" href="https://github.com/Correia-jpv/devchallenges-button-component" underline="none" variant="body2">
+            <Link color="text.secondary" href="https://github.com/Correia-jpv/devchallenges-input-component" underline="none" variant="body2">
               <IconButton aria-label="GitHub">
                 <GitHub />
               </IconButton>
